@@ -1,12 +1,11 @@
 <h1 align="center">
-    <b>User Registration & Login systems in<br> Node.js using MongoDB </b> 
+    <b>Reventa in<br> Node.js using MongoDB </b> 
 <br>
 </h1>
 
 
 <p align="center">
-  <a href="/LICENSE"><img src="https://img.shields.io/github/license/guruhariharaun/Registration-and-Login-Form-in-Nodejs-and-MongoDB.svg?style=flat-square"></a>
-</p>
+
 
 
 ## What is this for?
@@ -14,8 +13,7 @@ This is a Simple User Registration & Login systems app done with Node.js Framewo
 
 ## Getting Started
 
-### Deployment
-This Project is **[Live](https://reg-login-using-nodejs-mongodb.herokuapp.com/)** on: 🌍 **https://reg-login-using-nodejs-mongodb.herokuapp.com/**
+this is a prototype
 
 ## Running the tests
 
@@ -40,7 +38,7 @@ for short span needs of user and required items are charged accordngly
 
 
 ### DataBase:
-Here we use **[MongoDB Atlas(Cloud)](https://www.mongodb.com/cloud/atlas)** as the database. Here we have two collection created, named as:
+Here we use **[MongoDB Atlas(Cloud)](** as the database. Here we have two collection created, named as:
 - users.
 - sessions.
 
