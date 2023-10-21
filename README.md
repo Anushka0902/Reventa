@@ -76,5 +76,5 @@ The server will start Running on
 
 
 
-  Made with ❤️ by <a href="https://github.com/guruhariharaun">Guru Roxz</a>
+
 </p>
