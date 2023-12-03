@@ -14,7 +14,10 @@
 
 Reventa is an ecommerce solution for the daily requirement of the items required for a short period of time which has a uniqueness of renting option as well provide the ease to the customers. The website works in 3 stages- first the acquirement of the product from one side in other for safe option and maximum benefit of customer
 
-## Running the tests
+## TECH STACK
+frontend- HTML,CSS,JS and BOOTSTRAP
+backend- Mongoose,Node.js,Express.js, Extensions(EJS)
+Database-MongoDB
 
 ### •Registration Form:
 Allows the user to register their account by filling their Email, Username, Password.
@@ -23,7 +26,6 @@ Allows the user to register their account by filling their Email, Username, Pass
 ### •Login Form:
 If the user has been registered on the app, can login by passing the credentials.
 
-<img src="./docs/login.PNG" height="220" width="390" style="border: 1px solid black;">
 
 ### •User's Profile:
 After the user logged in, a simple profile with the user's username and password <br>displayed with a session Logout button.
@@ -55,8 +57,7 @@ Tools that we need to run this app:
 ```
 npm install
 ```
-## Connection to DataBase Access
-At line 11 on ```./server.js``` change ***```<DB_USERNAME>```*** with your DataBase UserName & ***```<DB_PASSWORD>```*** with your DataBase Password.
+
 
 ## To Run the App
 ```
