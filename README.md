@@ -8,8 +8,6 @@
 
 
 
-## What is this for?
-This is a Simple User Registration & Login systems app done with Node.js Framework using MongoDB(Atlas) as the data store, Express as the routing system, Body-parser as the parser for webpage, Express-session used  to track the user's session and of course Mongoose to make interacting with Mongo from Node easy.
 
 ## Getting Started
 
@@ -38,15 +36,8 @@ for short span needs of user and required items are charged accordngly
 
 
 ### DataBase:
-Here we use **[MongoDB Atlas(Cloud)](** as the database. Here we have two collection created, named as:
-- users.
-- sessions.
+Here we use **[MongoDB Atlas](** as the database. Here we have two collection created, named as:
 
-A Collection(**Users**) is populated with the user's credentials.
-
-
-
-A Collection(**session**) is created which stores the users Logged session.
 
 
 <br>
@@ -73,8 +64,4 @@ node server.js
 
 The server will start Running on
 + http://localhost:5000/
-
-
-
-
 </p>
