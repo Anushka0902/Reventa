@@ -11,7 +11,8 @@
 
 ## Getting Started
 
-this is a prototype
+
+Reventa is an ecommerce solution for the daily requirement of the items required for a short period of time which has a uniqueness of renting option as well provide the ease to the customers. The website works in 3 stages- first the acquirement of the product from one side in other for safe option and maximum benefit of customer
 
 ## Running the tests
 
